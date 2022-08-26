@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-move-app/static/css/main.bc1c095b.css",
+    "main.js": "/react-move-app/static/js/main.8fb66e73.js",
+    "index.html": "/react-move-app/index.html",
+    "main.bc1c095b.css.map": "/react-move-app/static/css/main.bc1c095b.css.map",
+    "main.8fb66e73.js.map": "/react-move-app/static/js/main.8fb66e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1c095b.css",
+    "static/js/main.8fb66e73.js"
+  ]
+}
